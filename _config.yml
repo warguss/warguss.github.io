@@ -1,0 +1,10 @@
+title: "Sitemap for GithubPage"              # 사이트 제목
+description: "A sample site for GitHub Pages with sitemap"  # 사이트 설명
+
+# 사이트맵 플러그인 설정
+plugins:
+  - jekyll-sitemap
+
+# 사이트 URL 설정 (필수)
+# GitHub Pages 기본 URL 또는 커스텀 도메인을 사용하는 경우 이를 여기에 입력
+url: "https://warguss.github.io # GitHub Pages URL
